@@ -5,4 +5,4 @@ I'm just a radical dame who likes to play games
 Linux/RedHat | Python
 vim | LaTeX
 AWS | bash
-MacOS | 中文
+Git | 中文
